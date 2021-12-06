@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to NV's MAGD 150 Sketches
+
+These are some of the assignments I have finished for MAGD 150. 
+
+_Assignment 1:_ 
+
+For this assignment, I was tasked with creating a composition in black and white, while adhering to the theme of buildings.
+(https://github.com/NV-Navnit/MAGD-150-Assignments/tree/gh-pages/f21magd150lab01_Venkatesh)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/NV-Navnit/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
